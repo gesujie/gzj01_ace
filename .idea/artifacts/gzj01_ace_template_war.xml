@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gzj01_ace_template:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gzj01.war">
+      <element id="artifact" artifact-name="gzj01_ace_template:war exploded" />
+    </root>
+  </artifact>
+</component>
