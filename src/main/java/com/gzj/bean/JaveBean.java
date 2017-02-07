@@ -23,5 +23,6 @@ public class JaveBean {
     private String password;
 
 	//11111111111111111111111111111111
+	//推送个branches1.0版本
 
 }
