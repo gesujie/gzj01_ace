@@ -24,5 +24,6 @@ public class JaveBean {
 
 	//11111111111111111111111111111111
 	//推送个branches1.0版本
+    //测试IDEA里的git工具
 
 }
